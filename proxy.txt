@@ -1,5 +1,4 @@
-hashpool.com
-hiveon.net
-hiveos.farm
-openai.com
+.hashpool.com
+.hiveon.net
+.hiveos.farm
 .openai.com
