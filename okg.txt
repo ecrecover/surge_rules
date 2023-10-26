@@ -1,3 +1,5 @@
+PROCESS-NAME,/Applications/FortiClient.app/Contents/Resources/runtime.helper/FortiClientAgent.app/Contents/MacOS/FortiClientAgent,
+DOMAIN,cloudvpn.okg.com,
 DOMAIN-SUFFIX,beta.okex.org,OKG
 DOMAIN-SUFFIX,okg.com,OKG
 DOMAIN-SUFFIX,dev.local,OKG
