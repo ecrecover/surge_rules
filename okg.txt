@@ -1,3 +1,8 @@
 .beta.okex.org
 .okg.com
 .dev.local
+.swim.local
+.base.local
+.local
+10.0.242.0/24
+10.239.2.0/24
