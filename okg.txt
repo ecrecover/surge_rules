@@ -1,8 +1,7 @@
-.beta.okex.org
-.okg.com
-.dev.local
-.swim.local
-.base.local
-.local
-10.0.242.0/24
-10.239.2.0/24
+DOMAIN-SUFFIX,beta.okex.org,OKG
+DOMAIN-SUFFIX,okg.com,OKG
+DOMAIN-SUFFIX,dev.local,OKG
+DOMAIN-SUFFIX,swim.local,OKG
+DOMAIN-SUFFIX,base.local,OKG
+IP-CIDR,10.0.242.0/24,OKG
+IP-CIDR,10.239.2.0/24,OKG
